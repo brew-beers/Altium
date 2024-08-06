@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=NJTRST Pin=D6-14
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X1-2
+Added Pin To Net: NetName=NetD6_94 Pin=D6-94
+Added Pin To Net: NetName=NetD6_94 Pin=R14-2
+Added Net: Name=NetD6_94
+Add Class Member: Failed to add class member : Component U3 ADA4610
+Add Class Member: Failed to add class member : Component X1 Crystal
+Added Room: Name=Filter
+Added Room: Name=GD34F407VGT6
+Added Room: Name=Ports
+Added Room: Name=Power Sheet

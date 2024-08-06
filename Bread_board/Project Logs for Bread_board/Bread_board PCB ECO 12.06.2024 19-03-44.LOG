@@ -1,0 +1,34 @@
+Change Component Comment : Designator=C15 Old Comment=0,1uF New Comment=4,7uF
+Change component parameters: Designator = "C15" ("C15"); Footprint = "C0603"; UniqueID = "\RREODFDL" ("\RREODFDL")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number En"; Value = "CAP CER 0,01UF 50V X7R 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number Ru"; Value = "0,01 לך ±10% 50 ֲ X7R 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4,7uF"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X1-2
+Added Pin To Net: NetName=SB1 Pin=D6-31
+Added Pin To Net: NetName=SB1 Pin=R15-2
+Added Pin To Net: NetName=SB1 Pin=SB1-1
+Added Pin To Net: NetName=SB1 Pin=SB1-1
+Added Net: Name=SB1
+Added Pin To Net: NetName=SB3 Pin=D6-32
+Added Pin To Net: NetName=SB3 Pin=R16-2
+Added Pin To Net: NetName=SB3 Pin=SB3-1
+Added Pin To Net: NetName=SB3 Pin=SB3-1
+Added Net: Name=SB3
+Added Pin To Net: NetName=SB4 Pin=D6-33
+Added Pin To Net: NetName=SB4 Pin=R17-2
+Added Pin To Net: NetName=SB4 Pin=SB4-1
+Added Pin To Net: NetName=SB4 Pin=SB4-1
+Added Net: Name=SB4
+Added Pin To Net: NetName=SB5 Pin=D6-34
+Added Pin To Net: NetName=SB5 Pin=R18-2
+Added Pin To Net: NetName=SB5 Pin=SB5-1
+Added Pin To Net: NetName=SB5 Pin=SB5-1
+Added Net: Name=SB5
+Add Class Member: Failed to add class member : Component U3 ADA4610
+Add Class Member: Failed to add class member : Component X1 Crystal
+Added Room: Name=Filter
+Added Room: Name=GD34F407VGT6
+Added Room: Name=Ports
+Added Room: Name=Power Sheet

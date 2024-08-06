@@ -1,0 +1,128 @@
+Removed Pin From Net: NetName=NetD12_1 Pin=R25-2
+Removed Pin From Net: NetName=NetD11_1 Pin=R26-2
+Removed Pin From Net: NetName=NetD10_1 Pin=R27-2
+Removed Pin From Net: NetName=NetD9_1 Pin=R28-2
+Removed Pin From Net: NetName=NetD8_1 Pin=R29-2
+Removed Member From Class: ClassName=GD34F407VGT6 Member=R28
+Removed Member From Class: ClassName=GD34F407VGT6 Member=R29
+Removed Member From Class: ClassName=GD34F407VGT6 Member=R30
+Change Component Designator: OldDesignator=C4 NewDesignator=C6
+Change Component Designator: OldDesignator=C5 NewDesignator=C4
+Change Component Designator: OldDesignator=C6 NewDesignator=C5
+Change Component Designator: OldDesignator=D5 NewDesignator=D4
+Change Component Designator: OldDesignator=D6 NewDesignator=D5
+Change Component Designator: OldDesignator=D7 NewDesignator=D6
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=R3 NewDesignator=R1
+Change Component Designator: OldDesignator=R4 NewDesignator=R2
+Change Component Designator: OldDesignator=R7 NewDesignator=R3
+Change Component Designator: OldDesignator=R8 NewDesignator=R4
+Change Component Designator: OldDesignator=R9 NewDesignator=R5
+Change Component Designator: OldDesignator=R10 NewDesignator=R12
+Change Component Designator: OldDesignator=R11 NewDesignator=R14
+Change Component Designator: OldDesignator=R12 NewDesignator=R15
+Change Component Designator: OldDesignator=R13 NewDesignator=R16
+Change Component Designator: OldDesignator=R14 NewDesignator=R17
+Change Component Designator: OldDesignator=R15 NewDesignator=R18
+Change Component Designator: OldDesignator=R16 NewDesignator=R19
+Change Component Designator: OldDesignator=R17 NewDesignator=R20
+Change Component Designator: OldDesignator=R18 NewDesignator=R21
+Change Component Designator: OldDesignator=R19 NewDesignator=R22
+Change Component Designator: OldDesignator=R20 NewDesignator=R23
+Change Component Designator: OldDesignator=R21 NewDesignator=R24
+Change Component Designator: OldDesignator=R22 NewDesignator=R25
+Change Component Designator: OldDesignator=R23 NewDesignator=R26
+Change Component Designator: OldDesignator=R24 NewDesignator=R6
+Change Component Designator: OldDesignator=R25 NewDesignator=R7
+Change Component Designator: OldDesignator=R26 NewDesignator=R8
+Change Component Designator: OldDesignator=R27 NewDesignator=R9
+Change Component Designator: OldDesignator=R28 NewDesignator=R10
+Change Component Designator: OldDesignator=R29 NewDesignator=R11
+Change Component Designator: OldDesignator=R30 NewDesignator=R13
+Change Component Designator: OldDesignator=XP2 NewDesignator=XP4
+Change Component Designator: OldDesignator=XP3 NewDesignator=XP5
+Change Component Designator: OldDesignator=XP4 NewDesignator=XP6
+Change Component Designator: OldDesignator=XP5 NewDesignator=XP7
+Change Component Designator: OldDesignator=XP6 NewDesignator=XP8
+Change Component Designator: OldDesignator=XP7 NewDesignator=XP9
+Change Component Designator: OldDesignator=XP8 NewDesignator=XP10
+Change Component Designator: OldDesignator=XP9 NewDesignator=XP2
+Change Component Designator: OldDesignator=XP10 NewDesignator=XP3
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Pin To Net: Unknown Pin: Pin D8-1
+Add Pin To Net: Unknown Pin: Pin D8-2
+Add Pin To Net: Unknown Pin: Pin D9-1
+Add Pin To Net: Unknown Pin: Pin D9-2
+Add Pin To Net: Unknown Pin: Pin D10-1
+Add Pin To Net: Unknown Pin: Pin D10-2
+Add Pin To Net: Unknown Pin: Pin D11-1
+Add Pin To Net: Unknown Pin: Pin D11-2
+Add Pin To Net: Unknown Pin: Pin D12-1
+Add Pin To Net: Unknown Pin: Pin D12-2
+Added Pin To Net: NetName=NetD12_1 Pin=R6-2
+Added Pin To Net: NetName=NetD11_1 Pin=R7-2
+Added Pin To Net: NetName=NetD10_1 Pin=R8-2
+Added Pin To Net: NetName=NetD9_1 Pin=R9-2
+Added Pin To Net: NetName=NetD8_1 Pin=R10-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin X2-1
+Add Pin To Net: Unknown Pin: Pin X2-2
+Add Pin To Net: Unknown Pin: Pin X3-1
+Add Pin To Net: Unknown Pin: Pin X3-2
+Change Net Name : Old Net Name=NetD5_6 New Net Name=NetD4_6
+Change Net Name : Old Net Name=NetD5_7 New Net Name=NetD4_7
+Change Net Name : Old Net Name=NetD6_6 New Net Name=NetD5_6
+Change Net Name : Old Net Name=NetD6_7 New Net Name=NetD5_7
+Change Net Name : Old Net Name=NetD7_34 New Net Name=NetD6_34
+Change Net Name : Old Net Name=NetD7_37 New Net Name=NetD6_37
+Change Net Name : Old Net Name=NetD7_63 New Net Name=NetD6_63
+Change Net Name : Old Net Name=NetD7_64 New Net Name=NetD6_64
+Change Net Name : Old Net Name=NetD7_65 New Net Name=NetD6_65
+Change Net Name : Old Net Name=NetD7_66 New Net Name=NetD6_66
+Change Net Name : Old Net Name=NetD7_78 New Net Name=NetD6_78
+Change Net Name : Old Net Name=NetD7_92 New Net Name=NetD6_92
+Change Net Name : Old Net Name=NetD7_93 New Net Name=NetD6_93
+Change Net Name : Old Net Name=NetD7_94 New Net Name=NetD6_94
+Change Net Name : Old Net Name=NetD7_95 New Net Name=NetD6_95
+Change Net Name : Old Net Name=NetD7_96 New Net Name=NetD6_96
+Change Net Name : Old Net Name=NetD?_4 New Net Name=NetD2_4
+Change Net Name : Old Net Name=NetD?_6 New Net Name=NetD2_6
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=D3-7
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=D3-8
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetD7_1 Pin=R11-2
+Added Net: Name=NetD7_1
+Added Pin To Net: NetName=NetR21_2 Pin=R21-2
+Added Pin To Net: NetName=NetR21_2 Pin=R22-1
+Added Net: Name=NetR21_2
+Added Pin To Net: NetName=NetR25_2 Pin=R25-2
+Added Pin To Net: NetName=NetR25_2 Pin=R26-1
+Added Net: Name=NetR25_2
+Add Class Member: Failed to add class member : Component D7 Light-Emitting Diode
+Add Class Member: Failed to add class member : Component D8 Light-Emitting Diode
+Add Class Member: Failed to add class member : Component D9 Light-Emitting Diode
+Add Class Member: Failed to add class member : Component D10 Light-Emitting Diode
+Add Class Member: Failed to add class member : Component D11 Light-Emitting Diode
+Add Class Member: Failed to add class member : Component D12 Light-Emitting Diode
+Added Member To Class: ClassName=GD34F407VGT6 Member=Component R16 10k
+Added Member To Class: ClassName=GD34F407VGT6 Member=Component R17 10k
+Added Member To Class: ClassName=GD34F407VGT6 Member=Component R18 10k
+Add Class Member: Failed to add class member : Component U1 ADA4610
+Add Class Member: Failed to add class member : Component U2 ADA4610
+Add Class Member: Failed to add class member : Component X1 Crystal
+Add Class Member: Failed to add class member : Component X2 Crystal
+Add Class Member: Failed to add class member : Component X3 Crystal
+Added Room: Name=Filter
+Added Room: Name=GD34F407VGT6
+Added Room: Name=Ports
+Added Room: Name=Power Sheet

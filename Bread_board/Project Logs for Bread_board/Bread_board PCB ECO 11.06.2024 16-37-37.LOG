@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=NJTRST Pin=D6-14
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X1-2
+Added Pin To Net: NetName=D7 Pin=D6-46
+Added Pin To Net: NetName=D7 Pin=R11-1
+Added Net: Name=D7
+Added Pin To Net: NetName=D8 Pin=D6-45
+Added Pin To Net: NetName=D8 Pin=R10-1
+Added Net: Name=D8
+Added Pin To Net: NetName=D9 Pin=D6-44
+Added Pin To Net: NetName=D9 Pin=R9-1
+Added Net: Name=D9
+Added Pin To Net: NetName=D10 Pin=D6-43
+Added Pin To Net: NetName=D10 Pin=R8-1
+Added Net: Name=D10
+Added Pin To Net: NetName=D11 Pin=D6-42
+Added Pin To Net: NetName=D11 Pin=R7-1
+Added Net: Name=D11
+Added Pin To Net: NetName=D12 Pin=D6-41
+Added Pin To Net: NetName=D12 Pin=R6-1
+Added Net: Name=D12
+Add Class Member: Failed to add class member : Component U3 ADA4610
+Add Class Member: Failed to add class member : Component X1 Crystal
+Added Room: Name=Filter
+Added Room: Name=GD34F407VGT6
+Added Room: Name=Ports
+Added Room: Name=Power Sheet

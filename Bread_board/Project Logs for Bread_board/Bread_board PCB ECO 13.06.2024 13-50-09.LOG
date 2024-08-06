@@ -1,0 +1,12 @@
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X1-2
+Change Net Name : Old Net Name=NetD4_6 New Net Name=RS_A
+Change Net Name : Old Net Name=NetD4_7 New Net Name=RS_B
+Change Net Name : Old Net Name=NetD5_6 New Net Name=CAN_L
+Change Net Name : Old Net Name=NetD5_7 New Net Name=CAN_H
+Add Class Member: Failed to add class member : Component U3 ADA4610
+Add Class Member: Failed to add class member : Component X1 Crystal
+Added Room: Name=Filter
+Added Room: Name=GD34F407VGT6
+Added Room: Name=Ports
+Added Room: Name=Power Sheet

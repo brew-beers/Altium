@@ -1,0 +1,38 @@
+Added Component: Designator=BQ1(OSC: ABS07)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Abracon LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ABS07-32.768KHZ-7-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number En"; Value = "ABS07-32.768KHZ-7-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number Ru"; Value = "ABS07-32.768KHZ-7-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "32.768 kHz"; VariantName = "[No Variations]"
+Added Component: Designator=BQ2(OSC: 3225)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YXC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "X32258MOB4SI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number En"; Value = "X32258MOB4SI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number Ru"; Value = "X32258MOB4SI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "8.0 MHz"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X1-2
+Added Pin To Net: NetName=NetBQ1_1 Pin=BQ1-1
+Added Pin To Net: NetName=NetBQ1_1 Pin=C18-2
+Added Pin To Net: NetName=NetBQ1_1 Pin=D6-8
+Added Net: Name=NetBQ1_1
+Added Pin To Net: NetName=NetBQ1_2 Pin=BQ1-2
+Added Pin To Net: NetName=NetBQ1_2 Pin=C19-1
+Added Pin To Net: NetName=NetBQ1_2 Pin=D6-9
+Added Net: Name=NetBQ1_2
+Added Pin To Net: NetName=NetBQ2_1 Pin=BQ2-1
+Added Pin To Net: NetName=NetBQ2_1 Pin=C23-2
+Added Pin To Net: NetName=NetBQ2_1 Pin=D6-12
+Added Net: Name=NetBQ2_1
+Added Pin To Net: NetName=NetBQ2_3 Pin=BQ2-3
+Added Pin To Net: NetName=NetBQ2_3 Pin=C24-1
+Added Pin To Net: NetName=NetBQ2_3 Pin=D6-13
+Added Net: Name=NetBQ2_3
+Added Member To Class: ClassName=GD34F407VGT6 Member=Component BQ1 32.768 kHz
+Added Member To Class: ClassName=GD34F407VGT6 Member=Component BQ2 8.0 MHz
+Add Class Member: Failed to add class member : Component U3 ADA4610
+Add Class Member: Failed to add class member : Component X1 Crystal
+Added Room: Name=Filter
+Added Room: Name=GD34F407VGT6
+Added Room: Name=Ports
+Added Room: Name=Power Sheet

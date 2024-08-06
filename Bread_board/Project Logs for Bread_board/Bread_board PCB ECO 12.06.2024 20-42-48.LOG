@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=JTMS/SWDIO Pin=XP8-4
+Removed Pin From Net: NetName=NJTRST Pin=XP8-5
+Removed Pin From Net: NetName=JTDO Pin=XP8-6
+Change Component Footprint: Designator=XP8 Old Footprint=2191SM-010G New Footprint=PLS-3
+Change Component Comment : Designator=XP8 Old Comment=2191SM-010G New Comment=DS1021-1*3SF1-1
+Change component parameters: Designator = "XP8" ("XP8"); Footprint = "2191SM-010G"; UniqueID = "\DGRBIEUP" ("\DGRBIEUP")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "CONNFLY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "DS1021-1*3SF1-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number En"; Value = "DS1021-1*3SF1-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number Ru"; Value = "DS1021-1*3SF1-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Öåïü1"; Value = "{Öåïü1}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Öåïü2"; Value = "{Öåïü2}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Öåïü3"; Value = "{Öåïü3}"; VariantName = "[No Variations]"
+Added Component: Designator=XP11(PLS-3)
+Add component (AddParameter): Name = "Manufacturer"; Value = "CONNFLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "DS1021-1*3SF1-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number En"; Value = "DS1021-1*3SF1-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number Ru"; Value = "DS1021-1*3SF1-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Öåïü1"; Value = "{Öåïü1}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Öåïü2"; Value = "{Öåïü2}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Öåïü3"; Value = "{Öåïü3}"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X1-2
+Added Pin To Net: NetName=JTMS/SWDIO Pin=XP11-1
+Added Pin To Net: NetName=NJTRST Pin=XP11-2
+Added Pin To Net: NetName=JTDO Pin=XP11-3
+Add Class Member: Failed to add class member : Component U3 ADA4610
+Add Class Member: Failed to add class member : Component X1 Crystal
+Added Member To Class: ClassName=GD34F407VGT6 Member=Component XP11 DS1021-1*3SF1-1
+Added Room: Name=Filter
+Added Room: Name=GD34F407VGT6
+Added Room: Name=Ports
+Added Room: Name=Power Sheet

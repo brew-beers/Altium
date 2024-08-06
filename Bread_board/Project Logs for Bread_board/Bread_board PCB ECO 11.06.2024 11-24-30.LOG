@@ -1,0 +1,28 @@
+Added Component: Designator=U1(SOT23-5)
+Added Component: Designator=U2(SOT23-5)
+Added Pin To Net: NetName=ADC0 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=NetC26_1 Pin=U1-3
+Added Pin To Net: NetName=NetR21_2 Pin=U1-4
+Added Pin To Net: NetName=+3,3V Pin=U1-5
+Added Pin To Net: NetName=ADC1 Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=NetC28_1 Pin=U2-3
+Added Pin To Net: NetName=NetR25_2 Pin=U2-4
+Added Pin To Net: NetName=+3,3V Pin=U2-5
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X1-2
+Add Pin To Net: Unknown Pin: Pin X2-1
+Add Pin To Net: Unknown Pin: Pin X2-2
+Add Pin To Net: Unknown Pin: Pin X3-1
+Add Pin To Net: Unknown Pin: Pin X3-2
+Added Member To Class: ClassName=Filter Member=Component U1 ADA4610
+Added Member To Class: ClassName=Filter Member=Component U2 ADA4610
+Add Class Member: Failed to add class member : Component U? ADA4610
+Add Class Member: Failed to add class member : Component X1 Crystal
+Add Class Member: Failed to add class member : Component X2 Crystal
+Add Class Member: Failed to add class member : Component X3 Crystal
+Added Room: Name=Filter
+Added Room: Name=GD34F407VGT6
+Added Room: Name=Ports
+Added Room: Name=Power Sheet

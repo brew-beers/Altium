@@ -1,0 +1,11 @@
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X1-2
+Change Net Name : Old Net Name=USB+ New Net Name=D_USB_P
+Change Net Name : Old Net Name=USB- New Net Name=D_USB_N
+Added Differential Pair: Name=D_USB
+Add Class Member: Failed to add class member : Component U3 ADA4610
+Add Class Member: Failed to add class member : Component X1 Crystal
+Added Room: Name=Filter
+Added Room: Name=GD34F407VGT6
+Added Room: Name=Ports
+Added Room: Name=Power Sheet

@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=GD34F407VGT6 Member=D13
+Change Component Footprint: Designator=D13 Old Footprint=MSOP8 готово New Footprint=8-SOIC
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X1-2
+Add Class Member: Failed to add class member : Component X1 Crystal
+Added Room: Name=Filter
+Added Room: Name=GD34F407VGT6
+Added Room: Name=Ports
+Added Room: Name=Power Sheet

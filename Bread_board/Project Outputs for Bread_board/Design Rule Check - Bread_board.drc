@@ -1,0 +1,312 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\Projects\Bread_board\Bread_board.PcbDoc
+Date     : 20.06.2024
+Time     : 11:07:55
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net +3,3V Between Track (4.55mm,54.15mm)(4.55mm,57.386mm) on Bottom Layer And Pad SB4-2(4.75mm,53mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net +3,3V Between Track (12.7mm,71.573mm)(12.7mm,77.573mm) on Bottom Layer And Track (12.8mm,77.873mm)(12.8mm,77.9mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net D_USB_P Between Track (41.595mm,16.275mm)(43.783mm,16.275mm) on Top Layer And Via (44.1mm,16.4mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net D_USB_N Between Track (41.823mm,15.725mm)(43.783mm,15.725mm) on Top Layer And Via (44.1mm,15.6mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net D_USB_P Between Track (46.125mm,16.275mm)(48.383mm,16.275mm) on Bottom Layer And Via (48.7mm,16.4mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net D_USB_N Between Track (46.353mm,15.725mm)(48.383mm,15.725mm) on Bottom Layer And Via (48.7mm,15.6mm) from Top Layer to Bottom Layer 
+Rule Violations :6
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=10mm) (Preferred=0.125mm) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.35mm) (Max=10mm) (Preferred=0.4mm) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.15mm) (Max=10mm) (Preferred=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.3mm) (Max=10mm) (Preferred=0.35mm) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.2mm) (Conductor Width=0.35mm) (Air Gap=0.35mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.2mm) (Conductor Width=0.2mm) (Air Gap=0.2mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.15mm) (Conductor Width=0.15mm) (Air Gap=0.15mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.15mm) (Conductor Width=0.2mm) (Air Gap=0.2mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.2mm) (Conductor Width=0.3mm) (Air Gap=0.3mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.2mm) (Conductor Width=0.2mm) (Air Gap=0.2mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.15mm) (IsPAD)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.1mm) (IsVia)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.15mm) (IsVia)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.2mm) (IsPAD)
+   Violation between Minimum Annular Ring: (0.15mm < 0.2mm) Pad R4-1(26.02mm,78.9mm) on Multi-Layer (Annular Ring=0.15mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.15mm < 0.2mm) Pad R4-2(31.1mm,78.9mm) on Multi-Layer (Annular Ring=0.15mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.15mm < 0.2mm) Pad R4-3(28.56mm,76.36mm) on Multi-Layer (Annular Ring=0.15mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.15mm < 0.2mm) Pad R5-1(44.36mm,78.87mm) on Multi-Layer (Annular Ring=0.15mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.15mm < 0.2mm) Pad R5-2(49.44mm,78.87mm) on Multi-Layer (Annular Ring=0.15mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.15mm < 0.2mm) Pad R5-3(46.9mm,76.33mm) on Multi-Layer (Annular Ring=0.15mm) On (Top Layer)
+Rule Violations :6
+
+Processing Rule : Acute Angle Constraint (Minimum=35.000) (All)
+   Violation between Acute Angle Constraint: (4,501 < 35,000) Between Pad XP3-2(37.1mm,14.4mm) on Multi-Layer And Track (36.25mm,11.672mm)(36.25mm,15.5mm) on Top Layer (Angle = 4,501)
+Rule Violations :1
+
+Processing Rule : Hole Size Constraint (Min=0.6mm) (Max=5.9mm) (IsPad)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=5.9mm) (IsVia)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=5.9mm) (IsVia)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.25mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.15mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-1(35.55mm,60.5mm) on Top Layer And Pad D6-2(35.55mm,60mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-10(35.55mm,56mm) on Top Layer And Pad D6-11(35.55mm,55.5mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-10(35.55mm,56mm) on Top Layer And Pad D6-9(35.55mm,56.5mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-100(37.25mm,62.2mm) on Top Layer And Pad D6-99(37.75mm,62.2mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-11(35.55mm,55.5mm) on Top Layer And Pad D6-12(35.55mm,55mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-12(35.55mm,55mm) on Top Layer And Pad D6-13(35.55mm,54.5mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-13(35.55mm,54.5mm) on Top Layer And Pad D6-14(35.55mm,54mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-14(35.55mm,54mm) on Top Layer And Pad D6-15(35.55mm,53.5mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-15(35.55mm,53.5mm) on Top Layer And Pad D6-16(35.55mm,53mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-16(35.55mm,53mm) on Top Layer And Pad D6-17(35.55mm,52.5mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-17(35.55mm,52.5mm) on Top Layer And Pad D6-18(35.55mm,52mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-18(35.55mm,52mm) on Top Layer And Pad D6-19(35.55mm,51.5mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-19(35.55mm,51.5mm) on Top Layer And Pad D6-20(35.55mm,51mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-2(35.55mm,60mm) on Top Layer And Pad D6-3(35.55mm,59.5mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-20(35.55mm,51mm) on Top Layer And Pad D6-21(35.55mm,50.5mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-21(35.55mm,50.5mm) on Top Layer And Pad D6-22(35.55mm,50mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-22(35.55mm,50mm) on Top Layer And Pad D6-23(35.55mm,49.5mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-23(35.55mm,49.5mm) on Top Layer And Pad D6-24(35.55mm,49mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-24(35.55mm,49mm) on Top Layer And Pad D6-25(35.55mm,48.5mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-26(37.25mm,46.8mm) on Top Layer And Pad D6-27(37.75mm,46.8mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-27(37.75mm,46.8mm) on Top Layer And Pad D6-28(38.25mm,46.8mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-28(38.25mm,46.8mm) on Top Layer And Pad D6-29(38.75mm,46.8mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-29(38.75mm,46.8mm) on Top Layer And Pad D6-30(39.25mm,46.8mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-3(35.55mm,59.5mm) on Top Layer And Pad D6-4(35.55mm,59mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-30(39.25mm,46.8mm) on Top Layer And Pad D6-31(39.75mm,46.8mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-31(39.75mm,46.8mm) on Top Layer And Pad D6-32(40.25mm,46.8mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-32(40.25mm,46.8mm) on Top Layer And Pad D6-33(40.75mm,46.8mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-33(40.75mm,46.8mm) on Top Layer And Pad D6-34(41.25mm,46.8mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-34(41.25mm,46.8mm) on Top Layer And Pad D6-35(41.75mm,46.8mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-35(41.75mm,46.8mm) on Top Layer And Pad D6-36(42.25mm,46.8mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-36(42.25mm,46.8mm) on Top Layer And Pad D6-37(42.75mm,46.8mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-37(42.75mm,46.8mm) on Top Layer And Pad D6-38(43.25mm,46.8mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-38(43.25mm,46.8mm) on Top Layer And Pad D6-39(43.75mm,46.8mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-39(43.75mm,46.8mm) on Top Layer And Pad D6-40(44.25mm,46.8mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-4(35.55mm,59mm) on Top Layer And Pad D6-5(35.55mm,58.5mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-40(44.25mm,46.8mm) on Top Layer And Pad D6-41(44.75mm,46.8mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-41(44.75mm,46.8mm) on Top Layer And Pad D6-42(45.25mm,46.8mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-42(45.25mm,46.8mm) on Top Layer And Pad D6-43(45.75mm,46.8mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-43(45.75mm,46.8mm) on Top Layer And Pad D6-44(46.25mm,46.8mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-44(46.25mm,46.8mm) on Top Layer And Pad D6-45(46.75mm,46.8mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-45(46.75mm,46.8mm) on Top Layer And Pad D6-46(47.25mm,46.8mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-46(47.25mm,46.8mm) on Top Layer And Pad D6-47(47.75mm,46.8mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-47(47.75mm,46.8mm) on Top Layer And Pad D6-48(48.25mm,46.8mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-48(48.25mm,46.8mm) on Top Layer And Pad D6-49(48.75mm,46.8mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-49(48.75mm,46.8mm) on Top Layer And Pad D6-50(49.25mm,46.8mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-5(35.55mm,58.5mm) on Top Layer And Pad D6-6(35.55mm,58mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-51(50.95mm,48.5mm) on Top Layer And Pad D6-52(50.95mm,49mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-52(50.95mm,49mm) on Top Layer And Pad D6-53(50.95mm,49.5mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-53(50.95mm,49.5mm) on Top Layer And Pad D6-54(50.95mm,50mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-54(50.95mm,50mm) on Top Layer And Pad D6-55(50.95mm,50.5mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-55(50.95mm,50.5mm) on Top Layer And Pad D6-56(50.95mm,51mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-56(50.95mm,51mm) on Top Layer And Pad D6-57(50.95mm,51.5mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-57(50.95mm,51.5mm) on Top Layer And Pad D6-58(50.95mm,52mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-58(50.95mm,52mm) on Top Layer And Pad D6-59(50.95mm,52.5mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-59(50.95mm,52.5mm) on Top Layer And Pad D6-60(50.95mm,53mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-6(35.55mm,58mm) on Top Layer And Pad D6-7(35.55mm,57.5mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-60(50.95mm,53mm) on Top Layer And Pad D6-61(50.95mm,53.5mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-61(50.95mm,53.5mm) on Top Layer And Pad D6-62(50.95mm,54mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-62(50.95mm,54mm) on Top Layer And Pad D6-63(50.95mm,54.5mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-63(50.95mm,54.5mm) on Top Layer And Pad D6-64(50.95mm,55mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-64(50.95mm,55mm) on Top Layer And Pad D6-65(50.95mm,55.5mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-65(50.95mm,55.5mm) on Top Layer And Pad D6-66(50.95mm,56mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-66(50.95mm,56mm) on Top Layer And Pad D6-67(50.95mm,56.5mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-67(50.95mm,56.5mm) on Top Layer And Pad D6-68(50.95mm,57mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-68(50.95mm,57mm) on Top Layer And Pad D6-69(50.95mm,57.5mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-69(50.95mm,57.5mm) on Top Layer And Pad D6-70(50.95mm,58mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-7(35.55mm,57.5mm) on Top Layer And Pad D6-8(35.55mm,57mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-70(50.95mm,58mm) on Top Layer And Pad D6-71(50.95mm,58.5mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-71(50.95mm,58.5mm) on Top Layer And Pad D6-72(50.95mm,59mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-72(50.95mm,59mm) on Top Layer And Pad D6-73(50.95mm,59.5mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-73(50.95mm,59.5mm) on Top Layer And Pad D6-74(50.95mm,60mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-74(50.95mm,60mm) on Top Layer And Pad D6-75(50.95mm,60.5mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-76(49.25mm,62.2mm) on Top Layer And Pad D6-77(48.75mm,62.2mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-77(48.75mm,62.2mm) on Top Layer And Pad D6-78(48.25mm,62.2mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-78(48.25mm,62.2mm) on Top Layer And Pad D6-79(47.75mm,62.2mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-79(47.75mm,62.2mm) on Top Layer And Pad D6-80(47.25mm,62.2mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-8(35.55mm,57mm) on Top Layer And Pad D6-9(35.55mm,56.5mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-80(47.25mm,62.2mm) on Top Layer And Pad D6-81(46.75mm,62.2mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-81(46.75mm,62.2mm) on Top Layer And Pad D6-82(46.25mm,62.2mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-82(46.25mm,62.2mm) on Top Layer And Pad D6-83(45.75mm,62.2mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-83(45.75mm,62.2mm) on Top Layer And Pad D6-84(45.25mm,62.2mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-84(45.25mm,62.2mm) on Top Layer And Pad D6-85(44.75mm,62.2mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-85(44.75mm,62.2mm) on Top Layer And Pad D6-86(44.25mm,62.2mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-86(44.25mm,62.2mm) on Top Layer And Pad D6-87(43.75mm,62.2mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-87(43.75mm,62.2mm) on Top Layer And Pad D6-88(43.25mm,62.2mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-88(43.25mm,62.2mm) on Top Layer And Pad D6-89(42.75mm,62.2mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-89(42.75mm,62.2mm) on Top Layer And Pad D6-90(42.25mm,62.2mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-90(42.25mm,62.2mm) on Top Layer And Pad D6-91(41.75mm,62.2mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-91(41.75mm,62.2mm) on Top Layer And Pad D6-92(41.25mm,62.2mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-92(41.25mm,62.2mm) on Top Layer And Pad D6-93(40.75mm,62.2mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-93(40.75mm,62.2mm) on Top Layer And Pad D6-94(40.25mm,62.2mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-94(40.25mm,62.2mm) on Top Layer And Pad D6-95(39.75mm,62.2mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-95(39.75mm,62.2mm) on Top Layer And Pad D6-96(39.25mm,62.2mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-96(39.25mm,62.2mm) on Top Layer And Pad D6-97(38.75mm,62.2mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-97(38.75mm,62.2mm) on Top Layer And Pad D6-98(38.25mm,62.2mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad D6-98(38.25mm,62.2mm) on Top Layer And Pad D6-99(37.75mm,62.2mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.111mm < 0.15mm) Between Pad R25-2(13.8mm,73.95mm) on Top Layer And Via (14.6mm,74.7mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.111mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Via (24.9mm,10.175mm) from Top Layer to Bottom Layer And Via (24.9mm,9.375mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.1mm] / [Bottom Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Via (27mm,10.175mm) from Top Layer to Bottom Layer And Via (27mm,9.375mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.1mm] / [Bottom Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Via (34.571mm,45.829mm) from Top Layer to Bottom Layer And Via (35.3mm,45.5mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.1mm] / [Bottom Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Via (44.1mm,15.6mm) from Top Layer to Bottom Layer And Via (44.1mm,16.4mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.1mm] / [Bottom Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Via (48.3mm,86.1mm) from Top Layer to Bottom Layer And Via (49.1mm,86.1mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.1mm] / [Bottom Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Via (48.7mm,15.6mm) from Top Layer to Bottom Layer And Via (48.7mm,16.4mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.1mm] / [Bottom Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Via (50.5mm,86.9mm) from Top Layer to Bottom Layer And Via (50.5mm,87.7mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.1mm] / [Bottom Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.119mm < 0.15mm) Between Via (55.45mm,48.965mm) from Top Layer to Bottom Layer And Via (55.9mm,48.282mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.119mm] / [Bottom Solder] Mask Sliver [0.119mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Via (58.725mm,57.12mm) from Top Layer to Bottom Layer And Via (59.525mm,57.12mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.1mm] / [Bottom Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.102mm < 0.15mm) Between Via (59.45mm,47.3mm) from Top Layer to Bottom Layer And Via (59.4mm,46.5mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.102mm] / [Bottom Solder] Mask Sliver [0.102mm]
+Rule Violations :107
+
+Processing Rule : Silk To Solder Mask (Clearance=0.15mm) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.15mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.25mm) Between Board Edge And Text "DEBUG " (66.583mm,70.154mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.25mm) Between Board Edge And Track (2.81mm,100.15mm)(33.61mm,100.15mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.25mm) Between Board Edge And Track (2.81mm,90.75mm)(2.81mm,100.15mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.25mm) Between Board Edge And Track (33.61mm,90.75mm)(33.61mm,100.15mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.25mm) Between Board Edge And Track (41.6mm,90.58mm)(41.6mm,99.98mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.25mm) Between Board Edge And Track (41.6mm,99.98mm)(72.4mm,99.98mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.25mm) Between Board Edge And Track (72.4mm,90.58mm)(72.4mm,99.98mm) on Top Overlay 
+Rule Violations :7
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=3mm) (InDifferentialPair('No Differential Pair'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=25.4mm) (All)
+   Violation between Matched Net Lengths: Between Net +3,3V And Net +5V Length:195.549mm is not within 25.4mm tolerance of Length:374.366mm (153.417mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net ADC0 Length:125.551mm is not within 25.4mm tolerance of Length:374.366mm (223.415mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net ADC1 Length:99.088mm is not within 25.4mm tolerance of Length:374.366mm (249.878mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net CAN_H Length:18.991mm is not within 25.4mm tolerance of Length:374.366mm (329.975mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net CAN_L Length:16.091mm is not within 25.4mm tolerance of Length:374.366mm (332.875mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net CAN_RX Length:69.186mm is not within 25.4mm tolerance of Length:374.366mm (279.78mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net CAN_TX Length:66.308mm is not within 25.4mm tolerance of Length:374.366mm (282.658mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net D_USB_N Length:68.414mm is not within 25.4mm tolerance of Length:374.366mm (280.552mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net D_USB_P Length:68.367mm is not within 25.4mm tolerance of Length:374.366mm (280.599mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net D10 Length:41.568mm is not within 25.4mm tolerance of Length:374.366mm (307.398mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net D11 Length:42.396mm is not within 25.4mm tolerance of Length:374.366mm (306.57mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net D12 Length:45.487mm is not within 25.4mm tolerance of Length:374.366mm (303.48mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net D7 Length:50.082mm is not within 25.4mm tolerance of Length:374.366mm (298.884mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net D8 Length:46.711mm is not within 25.4mm tolerance of Length:374.366mm (302.255mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net D9 Length:43.225mm is not within 25.4mm tolerance of Length:374.366mm (305.742mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net DAC0 Length:39.342mm is not within 25.4mm tolerance of Length:374.366mm (309.624mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net DAC1 Length:51.846mm is not within 25.4mm tolerance of Length:374.366mm (297.12mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net DIRECT Length:49.054mm is not within 25.4mm tolerance of Length:374.366mm (299.912mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net GND Length:16.29mm is not within 25.4mm tolerance of Length:374.366mm (332.676mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net ID Length:0mm is not within 25.4mm tolerance of Length:374.366mm (348.966mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net JTCK/SWCLK Length:34.241mm is not within 25.4mm tolerance of Length:374.366mm (314.725mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net JTDO Length:30.474mm is not within 25.4mm tolerance of Length:374.366mm (318.492mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net JTMS/SWDIO Length:33.735mm is not within 25.4mm tolerance of Length:374.366mm (315.231mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net NetBQ1_1 Length:10.902mm is not within 25.4mm tolerance of Length:374.366mm (338.064mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net NetBQ1_2 Length:13.592mm is not within 25.4mm tolerance of Length:374.366mm (335.374mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net NetBQ2_1 Length:10.102mm is not within 25.4mm tolerance of Length:374.366mm (338.864mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net NetBQ2_3 Length:12.142mm is not within 25.4mm tolerance of Length:374.366mm (336.824mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net NetC25_1 Length:3.241mm is not within 25.4mm tolerance of Length:374.366mm (345.725mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net NetC26_1 Length:3.418mm is not within 25.4mm tolerance of Length:374.366mm (345.548mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net NetC27_1 Length:3.662mm is not within 25.4mm tolerance of Length:374.366mm (345.304mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net NetC28_1 Length:4.394mm is not within 25.4mm tolerance of Length:374.366mm (344.573mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net NetC4_1 Length:2.8mm is not within 25.4mm tolerance of Length:374.366mm (346.166mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net NetC5_2 Length:2.935mm is not within 25.4mm tolerance of Length:374.366mm (346.032mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net NetD10_1 Length:1.75mm is not within 25.4mm tolerance of Length:374.366mm (347.216mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net NetD11_1 Length:1.75mm is not within 25.4mm tolerance of Length:374.366mm (347.216mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net NetD12_1 Length:1.75mm is not within 25.4mm tolerance of Length:374.366mm (347.216mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net NetD13_3 Length:3.56mm is not within 25.4mm tolerance of Length:374.366mm (345.406mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net NetD13_5 Length:9.244mm is not within 25.4mm tolerance of Length:374.366mm (339.722mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net NetD6_37 Length:2.366mm is not within 25.4mm tolerance of Length:374.366mm (346.6mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net NetD6_94 Length:2.05mm is not within 25.4mm tolerance of Length:374.366mm (346.916mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net NetD7_1 Length:1.903mm is not within 25.4mm tolerance of Length:374.366mm (347.064mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net NetD8_1 Length:1.75mm is not within 25.4mm tolerance of Length:374.366mm (347.216mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net NetD9_1 Length:1.75mm is not within 25.4mm tolerance of Length:374.366mm (347.216mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net NJTRST Length:85.709mm is not within 25.4mm tolerance of Length:374.366mm (263.257mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net PD0 Length:44.605mm is not within 25.4mm tolerance of Length:374.366mm (304.361mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net PD1 Length:43.526mm is not within 25.4mm tolerance of Length:374.366mm (305.44mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net PD10 Length:40.325mm is not within 25.4mm tolerance of Length:374.366mm (308.641mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net PD11 Length:38.461mm is not within 25.4mm tolerance of Length:374.366mm (310.505mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net PD12 Length:36.736mm is not within 25.4mm tolerance of Length:374.366mm (312.23mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net PD13 Length:34.306mm is not within 25.4mm tolerance of Length:374.366mm (314.66mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net PD14 Length:32.523mm is not within 25.4mm tolerance of Length:374.366mm (316.443mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net PD15 Length:30.541mm is not within 25.4mm tolerance of Length:374.366mm (318.425mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net PD2 Length:42.435mm is not within 25.4mm tolerance of Length:374.366mm (306.531mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net PD3 Length:41.446mm is not within 25.4mm tolerance of Length:374.366mm (307.52mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net PD4 Length:39.609mm is not within 25.4mm tolerance of Length:374.366mm (309.357mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net PD5 Length:38.574mm is not within 25.4mm tolerance of Length:374.366mm (310.393mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net PD6 Length:37.538mm is not within 25.4mm tolerance of Length:374.366mm (311.428mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net PD7 Length:36.853mm is not within 25.4mm tolerance of Length:374.366mm (312.113mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net PD8 Length:93.997mm is not within 25.4mm tolerance of Length:374.366mm (254.97mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net PD9 Length:42.131mm is not within 25.4mm tolerance of Length:374.366mm (306.836mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net RS_A Length:17.632mm is not within 25.4mm tolerance of Length:374.366mm (331.334mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net RS_B Length:16.691mm is not within 25.4mm tolerance of Length:374.366mm (332.276mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net S Length:67.44mm is not within 25.4mm tolerance of Length:374.366mm (281.526mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net SB1 Length:57.286mm is not within 25.4mm tolerance of Length:374.366mm (291.68mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net SB3 Length:71.985mm is not within 25.4mm tolerance of Length:374.366mm (276.981mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net SB4 Length:49.944mm is not within 25.4mm tolerance of Length:374.366mm (299.022mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net SB5 Length:44.596mm is not within 25.4mm tolerance of Length:374.366mm (304.37mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net UD_- Length:21.665mm is not within 25.4mm tolerance of Length:374.366mm (327.302mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net UD_+ Length:19.842mm is not within 25.4mm tolerance of Length:374.366mm (329.124mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net USART1_RX Length:32.503mm is not within 25.4mm tolerance of Length:374.366mm (316.463mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net USART1_TX Length:32.082mm is not within 25.4mm tolerance of Length:374.366mm (316.884mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net USART2_RX Length:55.075mm is not within 25.4mm tolerance of Length:374.366mm (293.891mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net USART2_TX Length:63.211mm is not within 25.4mm tolerance of Length:374.366mm (285.756mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net USB_D- Length:8.932mm is not within 25.4mm tolerance of Length:374.366mm (340.034mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net USB_D+ Length:9.969mm is not within 25.4mm tolerance of Length:374.366mm (338.997mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net USBIN_1 Length:13.181mm is not within 25.4mm tolerance of Length:374.366mm (335.785mm short) 
+   Violation between Matched Net Lengths: Between Net +3,3V And Net USBIN_2 Length:10.736mm is not within 25.4mm tolerance of Length:374.366mm (338.23mm short) 
+Rule Violations :77
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 204
+Waived Violations : 0
+Time Elapsed        : 00:00:04

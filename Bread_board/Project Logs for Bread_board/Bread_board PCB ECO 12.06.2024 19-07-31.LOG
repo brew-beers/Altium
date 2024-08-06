@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=SB1 Pin=D6-31
+Removed Pin From Net: NetName=SB3 Pin=D6-32
+Removed Pin From Net: NetName=SB4 Pin=D6-33
+Removed Pin From Net: NetName=SB5 Pin=D6-34
+Added Pin To Net: NetName=SB4 Pin=D6-31
+Added Pin To Net: NetName=SB5 Pin=D6-32
+Added Pin To Net: NetName=SB1 Pin=D6-33
+Added Pin To Net: NetName=SB3 Pin=D6-34
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X1-2
+Add Class Member: Failed to add class member : Component U3 ADA4610
+Add Class Member: Failed to add class member : Component X1 Crystal
+Added Room: Name=Filter
+Added Room: Name=GD34F407VGT6
+Added Room: Name=Ports
+Added Room: Name=Power Sheet
